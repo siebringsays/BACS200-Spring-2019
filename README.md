@@ -1,5 +1,7 @@
 # UNC - BACS 200 - Fall 2019
 
+NOTE: This is a copy of the repo designed for Erika's own personal files.
+
 ## BACS 200: Intro to Web Dev
 
 University of Northern Colorado
